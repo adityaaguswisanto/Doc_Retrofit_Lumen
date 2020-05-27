@@ -1,0 +1,2 @@
+rootProject.name='ExampleLumen'
+include ':app'
